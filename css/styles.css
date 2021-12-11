@@ -926,6 +926,7 @@ text-align: center;
 	display: flex;
 	align-items: center;
 
+  margin-right: 0px;
 	font-size: 14px;
 	line-height: 1.7;
 	letter-spacing: 0.03em;
